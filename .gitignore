@@ -5,6 +5,7 @@ node_modules/
 dist/
 
 # Ignore wallet files (containing sensitive private keys)
+dev-wallet.json
 *wallet.json
 
 # Ignore environment variable files
